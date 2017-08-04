@@ -1,0 +1,97 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "0EhLvZ6Og9HYqJtCc2Dzs1EgM30=",
+			"path": "github.com/bitly/go-simplejson",
+			"revision": "da1a8928f709389522c8023062a3739f3b4af419",
+			"revisionTime": "2017-02-06T15:46:32Z"
+		},
+		{
+			"checksumSHA1": "XEBl9iQQvfXNlwCSzyAOCqAlYEA=",
+			"path": "github.com/fatih/color",
+			"revision": "42c364ba490082e4815b5222728711b3440603eb",
+			"revisionTime": "2017-01-13T15:16:12Z"
+		},
+		{
+			"checksumSHA1": "Bn+jLz/gDn8d6apEb70H9fvMOec=",
+			"path": "github.com/google/go-github/github",
+			"revision": "27c7c32b6d369610435bd2ad7b4d8554f235eb01",
+			"revisionTime": "2016-12-16T23:18:18Z"
+		},
+		{
+			"checksumSHA1": "p3IB18uJRs4dL2K5yx24MrLYE9A=",
+			"path": "github.com/google/go-querystring/query",
+			"revision": "53e6ce116135b80d037921a7fdd5138cf32d7a8a",
+			"revisionTime": "2017-01-11T10:11:55Z"
+		},
+		{
+			"checksumSHA1": "I4njd26dG5hxFT2nawuByM4pxzY=",
+			"path": "github.com/mattn/go-colorable",
+			"revision": "d228849504861217f796da67fae4f6e347643f15",
+			"revisionTime": "2016-11-03T16:00:40Z"
+		},
+		{
+			"checksumSHA1": "xZuhljnmBysJPta/lMyYmJdujCg=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "30a891c33c7cde7b02a981314b4228ec99380cca",
+			"revisionTime": "2016-11-23T14:36:37Z"
+		},
+		{
+			"checksumSHA1": "MNkKJyk2TazKMJYbal5wFHybpyA=",
+			"path": "github.com/mattn/go-runewidth",
+			"revision": "14207d285c6c197daabb5c9793d63e7af9ab2d50",
+			"revisionTime": "2017-02-01T02:35:40Z"
+		},
+		{
+			"checksumSHA1": "pcxo5ATo/IV/Co8/F4RmBTL+mQs=",
+			"path": "github.com/nsf/termbox-go",
+			"revision": "abe82ce5fb7a42fbd6784a5ceb71aff977e09ed8",
+			"revisionTime": "2016-12-05T19:42:51Z"
+		},
+		{
+			"checksumSHA1": "csB0965s0UA1Uo4EijD/dyEY96M=",
+			"path": "github.com/nwidger/jsoncolor",
+			"revision": "0192e84d44af834c3a90c8a17bf670483b91ad5a",
+			"revisionTime": "2016-12-09T20:22:05Z"
+		},
+		{
+			"checksumSHA1": "ynJSWoF6v+3zMnh9R0QmmG6iGV8=",
+			"path": "github.com/pkg/errors",
+			"revision": "248dadf4e9068a0b3e79f02ed0a610d935de5302",
+			"revisionTime": "2016-10-29T09:36:37Z"
+		},
+		{
+			"checksumSHA1": "1Ap0ZeMhlDbvuxVgjY5sDLhBtQ8=",
+			"path": "github.com/simeji/jid",
+			"revision": "9090f06e9643aa1a4e95904a4ebbd6d186b3a20f",
+			"revisionTime": "2017-01-22T15:54:24Z"
+		},
+		{
+			"checksumSHA1": "JWyVxkLtx2Dw4C2jNfQJV2C3YRA=",
+			"path": "github.com/square/go-jose",
+			"revision": "7f0dd807d3f3d73bb536898cb7980ddf638ce69a",
+			"revisionTime": "2016-08-31T18:22:30Z"
+		},
+		{
+			"checksumSHA1": "JJd0NOYIZQQc8WwqhfW9OwPvGa4=",
+			"path": "github.com/square/go-jose/cipher",
+			"revision": "7f0dd807d3f3d73bb536898cb7980ddf638ce69a",
+			"revisionTime": "2016-08-31T18:22:30Z"
+		},
+		{
+			"checksumSHA1": "MjFMyZLaQYCfJyi3O0ynKNSmneA=",
+			"path": "github.com/square/go-jose/json",
+			"revision": "7f0dd807d3f3d73bb536898cb7980ddf638ce69a",
+			"revisionTime": "2016-08-31T18:22:30Z"
+		},
+		{
+			"checksumSHA1": "uTQtOqR0ePMMcvuvAIksiIZxhqU=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "7a6e5648d140666db5d920909e082ca00a87ba2c",
+			"revisionTime": "2017-02-01T04:15:14Z"
+		}
+	],
+	"rootPath": "github.com/srcclr/example-go-govendor"
+}
